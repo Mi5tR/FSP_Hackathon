@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.db
+.pytest_cache/
+node_modules/
+dist/
+.env
+.vscode/
+*.log
+# Материалы организаторов (ТЗ, шаблон презентации) хранятся локально
+materials/
+
+# Локальные настройки Claude Code
+.claude/
